@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Cantarell&family=Dosis:wght@200&family=Oswald:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Cantarell&family=Dosis:wght@200&family=Oswald:wght@200&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo-huno{
+    font-size: 2rem;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.inicio-huno{
+    color: rgb(131, 33, 33);
+}
+
+.carousel-inner{
+    max-height: 35rem;
+}
