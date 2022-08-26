@@ -21,3 +21,32 @@ body{
 .carousel-inner{
     max-height: 35rem;
 }
+
+.imgfondo-contacto{
+    background-image: url(../imagenes/fondocontacto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}
+
+.imgfondo-oficinas{
+    background-image: url(../imagenes/);
+}
+
+.imgfondo-nosotros{
+    background-image: url(../imagenes/A\ truly\ blurred\ typology\ by\ Christopher\ Elliott\ Design\ _\ IndesignLive.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parrafo-nosotros{
+    background-color: rgb(248, 226, 198);
+}
+
+h1{
+    letter-spacing: 2px;
+}
+
+p{
+    letter-spacing: 2px;
+}
